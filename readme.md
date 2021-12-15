@@ -6,7 +6,7 @@ branch (master) ==> ramo principal
 
 git add ==> staging do arquivo 
 
-git commit -m "mesagem" ==> commit do arquivo com uma mensagem
+git commit -m "mensagem" ==> commit do arquivo com uma mensagem
 
 git remote add origin <link de origem> ==> adiciona o repositorio que será utilizado 
 
