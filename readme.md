@@ -13,3 +13,9 @@ git remote add origin (link de origem) ==> adiciona o repositorio que será util
 git push origin master ==> sobe os arquivos para o GITHUB
 
 git checkout -b "nome da branch" ==> cria uma nova branch
+
+git merge nome da branch ==> junta a branch no master
+
+git clone (link) ==> clona um repositorio
+
+git pull ==> pega as alterações que estão no repositório remoto
