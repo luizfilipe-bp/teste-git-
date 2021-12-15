@@ -11,3 +11,5 @@ git commit -m "mensagem" ==> commit do arquivo com uma mensagem
 git remote add origin (link de origem) ==> adiciona o repositorio que será utilizado
 
 git push origin master ==> sobe os arquivos para o GITHUB
+
+git checkout -b "nome da branch" ==> cria uma nova branch
